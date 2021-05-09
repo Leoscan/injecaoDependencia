@@ -57,8 +57,5 @@ public class Aluno extends Pessoa {
 		builder.append(email);
 		builder.append("\n------------");
 		return builder.toString();
-	}
-	
-	
-	
+	}	
 }
