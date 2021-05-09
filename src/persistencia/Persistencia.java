@@ -7,9 +7,9 @@ import classes.Aluno;
 public class Persistencia {
 	
 	public String CriaPersistencia(List<Aluno> ListAluno) {
-		return "Criado Com sucesso";
+		return null;
 	}
-	public static void RecuperaPersistencia(Aluno Aluno) {
-		
+	public List<Aluno> RecuperaPersistencia() {
+		return null;
 	}
 }

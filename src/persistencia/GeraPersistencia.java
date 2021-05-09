@@ -14,4 +14,8 @@ public class GeraPersistencia {
 	public String GPersistencia(List<Aluno> ListAluno) {
 		return persistencia.CriaPersistencia(ListAluno);
 	}
+	public List<Aluno> RPersistencia() {
+		return persistencia.RecuperaPersistencia();
+	}
+	
 }

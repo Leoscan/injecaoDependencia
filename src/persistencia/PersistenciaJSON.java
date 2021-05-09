@@ -8,4 +8,9 @@ public class PersistenciaJSON extends Persistencia{
 	public String CriaPersistencia(List<Aluno> ListAluno) {
 		return "Criado Com sucesso O JSON";
 	}
+	
+	
+	public List<Aluno> RecuperaPersistencia() {
+		
+	}
 }

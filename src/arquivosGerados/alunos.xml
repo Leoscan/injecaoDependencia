@@ -1,0 +1,23 @@
+<list>
+  <classes.Aluno>
+    <nome>Leonardo</nome>
+    <matricula>12786</matricula>
+    <cpf>111.222.333-12</cpf>
+    <dataNascimento>30-11-1999</dataNascimento>
+    <email>leofelix@mail.com</email>
+  </classes.Aluno>
+  <classes.Aluno>
+    <nome>José</nome>
+    <matricula>12787</matricula>
+    <cpf>777.123.546-12</cpf>
+    <dataNascimento>15-01-1987</dataNascimento>
+    <email>jose@mail.com</email>
+  </classes.Aluno>
+  <classes.Aluno>
+    <nome>Fernando</nome>
+    <matricula>12788</matricula>
+    <cpf>999.122.999-12</cpf>
+    <dataNascimento>12-08-1950</dataNascimento>
+    <email>fernando@mail.com</email>
+  </classes.Aluno>
+</list>
