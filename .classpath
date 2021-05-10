@@ -10,5 +10,6 @@
 	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDependencia/lib/gson-2.8.6.jar"/>
 	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDependencia/lib/jdom.jar"/>
 	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDependencia/lib/xstream-1.4.15.jar"/>
+	<classpathentry kind="lib" path="/Users/Leo/Documents/Eclipse/InjecaoDependencia/lib/opencsv-5.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

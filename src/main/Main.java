@@ -18,19 +18,19 @@ public class Main {
 		alunos.add(n3);
 		
 		
-		System.out.println("#######################################");
+		System.out.println("##############################################################################");
 		Persistencia PAluno = new PersistenciaXML();
 		GeraPersistencia P1 = new GeraPersistencia(PAluno);		
 		System.out.println(P1.GPersistencia(alunos));
 		System.out.println(P1.RPersistencia());
 		
-		System.out.println("#######################################");
+		System.out.println("##############################################################################");
 		PAluno = new PersistenciaJSON();
 		P1 = new GeraPersistencia(PAluno);		
 		System.out.println(P1.GPersistencia(alunos));
 		System.out.println(P1.RPersistencia());
 		
-		System.out.println("#######################################");
+		System.out.println("##############################################################################");
 		PAluno = new PersistenciaCSV();
 		P1 = new GeraPersistencia(PAluno);		
 		System.out.println(P1.GPersistencia(alunos));
